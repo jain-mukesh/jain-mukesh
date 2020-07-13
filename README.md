@@ -5,8 +5,8 @@ Read [my blog](https://medium.com/@jainmukesh) or [follow @_mjain on Twitter](ht
 ### On my blog
 <!-- blog starts -->
 * [New Perspectives](https://medium.com/@jainmukesh/new-perspectives-72516b150a9) - 2020-06-15
-* [Slow Browser? 1 Hack to speed it up](ihttps://medium.com/@jainmukesh/slow-browser-1-hack-to-speed-it-up-2c6d90152b7b) - 2020-06-01
-* [Desires and Happiness](ihttps://medium.com/@jainmukesh/desires-and-happiness-7a19f737684e) - 2019-02-08
+* [Slow Browser? 1 Hack to speed it up](https://medium.com/@jainmukesh/slow-browser-1-hack-to-speed-it-up-2c6d90152b7b) - 2020-06-01
+* [Desires and Happiness](https://medium.com/@jainmukesh/desires-and-happiness-7a19f737684e) - 2019-02-08
 <!-- blog ends -->
 More on [https://medium.com/@jainmukesh](https://medium.com/@jainmukesh)
 </td><td valign="top">

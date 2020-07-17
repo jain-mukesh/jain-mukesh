@@ -22,3 +22,5 @@ More on [https://medium.com/@jainmukesh](https://medium.com/@jainmukesh)
 More on [https://github.com/jain-mukesh](https://github.com/jain-mukesh)
 
 </td></tr></table>
+
+<a href="https://github.com/jain-mukesh/jain-mukesh/actions"><img src="https://github.com/jain-mukesh/jain-mukesh/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>

@@ -1,21 +1,10 @@
-<table width="100%"><tr><td width="20%">
-   
-  [![Github](https://img.shields.io/badge/-jain--mukesh-black?logo=github&style=flat-square)](https://github.com/jain-mukesh)
-</td><td width="20%">
-  
-  [![Gmail](https://img.shields.io/badge/-jainmukesh@gmail.com-black?logo=gmail&style=flat-square)](mailto:jainmukesh@gmail.com)
-</td><td width="20%">
-  
-  [![Linkedin](https://img.shields.io/badge/-jain--mukesh-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/jain-mukesh)
-</td><td width="20%">
-  
-  [![Medium](https://img.shields.io/badge/-@jainmukesh-black?logo=medium&style=flat-square)](https://medium.com/@jainmukesh)
-</td><td width="20%">
-
-  [![Twitter](https://img.shields.io/badge/-__mjain-blue?logo=twitter&style=flat-square)](https://twitter.com/_mjain)
-</td></tr><table>
-
-<table><tr><td valign="top">
+<p align='center'>
+  <a href="https://github.com/jain-mukesh"><img height="30" src="https://img.shields.io/badge/-jain--mukesh-black?logo=github&style=flat-square"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jain-mukesh"><img height="30" src="https://img.shields.io/badge/-jain--mukesh-blue?logo=linkedin&style=flat-square"></a>&nbsp;&nbsp;
+  <a href="mailto:jainmukesh@gmail.com"><img height="30" src="https://img.shields.io/badge/-jainmukesh@gmail.com-black?logo=gmail&style=flat-square"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/_mjain"><img height="30" src="https://img.shields.io/badge/-__mjain-blue?logo=twitter&style=flat-square"></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@jainmukesh"><img height="30" src="https://img.shields.io/badge/-@jainmukesh-black?logo=medium&style=flat-square"></a>
+</p>
 
 ### On my blog
 <!-- blog starts -->
